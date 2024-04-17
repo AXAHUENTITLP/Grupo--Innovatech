@@ -1,3 +1,7 @@
 # Grupo-01-Innovatech
-## Receta 
+## How to Cook hamburguers
+<div align= "center"
+| ingredientes    |   Cantidad     |
+|-----------------|----------------|
+| Jitomate        |      1         |
 
