@@ -16,8 +16,8 @@
 ## Instrucciones 
 
 1. 
-  -
    -
+    -
 2.
    -
     -
