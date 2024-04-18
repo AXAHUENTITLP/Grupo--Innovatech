@@ -14,14 +14,20 @@
 | Convimentos     |  2 cucharadas  | 
 
 instrucciones 
--
--
--
--
--
--
-<p align= "center">
-<img src=.
+1. 
+  -
+   -
+2.
+   -
+    -
+     -
+3. 
+   -
+     -
+       -
+    
+     
+!
 
 
 
